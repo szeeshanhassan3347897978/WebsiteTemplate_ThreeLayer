@@ -1,0 +1,28 @@
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreen\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreen\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreen\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreen\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreen\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreenProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreenProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\office-one drive\OneDrive - Pak Telecom Mobile Limited\persoal\work\ahmed project\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\AssuieGreenProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\AssuieGreenProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\One Drive - personal\OneDrive\ahmed project\AssuieGreenProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\One Drive - personal\OneDrive\ahmed project\AssuieGreenProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\One Drive - personal\OneDrive\ahmed project\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\One Drive - personal\OneDrive\ahmed project\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\One Drive - personal\OneDrive\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\One Drive - personal\OneDrive\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\One Drive - personal\OneDrive\AssuieGreenProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\One Drive - personal\OneDrive\AssuieGreenProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\One Drive - personal\OneDrive\AssuieGreenProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\zeeshan_hassan_syed\OneDrive - S&P Global\Personal\Refined Template\WebsiteTemplate(ahmed proj)\WebsiteTemplate(ahmed proj)\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\zeeshan_hassan_syed\OneDrive - S&P Global\Personal\Refined Template\WebsiteTemplate(ahmed proj)\WebsiteTemplate(ahmed proj)\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\zeeshan_hassan_syed\OneDrive - S&P Global\Personal\Refined Template\WebsiteTemplate(ahmed proj)\WebsiteTemplate(ahmed proj)\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\zeeshan_hassan_syed\OneDrive - S&P Global\Personal\Refined Template\WebsiteTemplate(ahmed proj)\WebsiteTemplate(ahmed proj)\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\zeeshan_hassan_syed\OneDrive - S&P Global\Personal\Refined Template\WebsiteTemplate(ahmed proj)\WebsiteTemplate(ahmed proj)\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
